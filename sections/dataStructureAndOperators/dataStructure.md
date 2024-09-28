@@ -69,6 +69,31 @@ Set is a collection of unique values, meaning it automatically removes duplicate
    console.log(mySet.has(10)); // false
    ```
 
+**Looping over Set**
+
+```js
+const testSet = new Set([1, 2, 3, 4, 5]);
+testSet.forEach(function (value, _, map) {
+  console.log(`the value is ${value}`);
+});
+```
+
 ## Maps
 
 Map is a collection of key-value pairs where both keys and values can be of any type. Unlike objects, maps maintain the order of their entries and allow keys to be any data type (not just strings or symbols).
+
+**Looping over Map**
+
+```js
+const testMap = new Map([
+  ["key1", "value1"],
+  ["key2", "value2"],
+  ["key3", "value3"],
+  ["key4", "value4"],
+  ["key5", "value5"],
+]);
+
+testMap.forEach(function (value, key, map) {
+  console.log(`the key is ${key} and the value is ${value}`);
+});
+```
