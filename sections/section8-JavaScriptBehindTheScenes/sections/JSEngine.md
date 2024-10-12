@@ -9,7 +9,7 @@ A program that executes JavaScript code, such as the V8 Engine, is referred to a
 - `Heap` This is a memory pool used for storing dynamic objects during the execution of the code.
 
 <p align="center">
-  <img src="./images/jsEngine.png" alt="alt-text" width="500"/>
+  <img src="../images/jsEngine.png" alt="alt-text" width="500"/>
 </p>
 
 **Modren Just-In-Time compilation of Javascript**
@@ -29,7 +29,7 @@ A program that executes JavaScript code, such as the V8 Engine, is referred to a
 ## Compilation Vs Interpretation
 
 <p align="center">
-  <img src="./images/com_inter_justInTime.png" alt="alt-text" width="500"/>
+  <img src="../images/com_inter_justInTime.png" alt="alt-text" width="500"/>
 </p>
 
 A **`portable`** file refers to a file that can be easily moved or transferred across different systems or platforms without requiring changes to its format or structure.
@@ -71,7 +71,7 @@ An execution context is the environment in which JavaScript code is evaluated an
    - The function's arguments, variables, and the value of this are part of this context.
 
 <p align="center">
-  <img src="./images/executionContext.png" alt="alt-text" width="500"/>
+  <img src="../images/executionContext.png" alt="alt-text" width="500"/>
 </p>
 
 ---
@@ -79,7 +79,7 @@ An execution context is the environment in which JavaScript code is evaluated an
 ## Execution context in detail
 
 <p align="center">
-  <img src="./images/executionContextInDetail.png" alt="alt-text" width="500"/>
+  <img src="../images/executionContextInDetail.png" alt="alt-text" width="500"/>
 </p>
 
 ## Call Stack
@@ -128,5 +128,5 @@ const x = first();
 ## Scope Chain Vs Call Stack
 
 <p align="center">
-  <img src="./images/CallStackVsScopeChain.png" alt="alt-text" width="500"/>
+  <img src="../images/CallStackVsScopeChain.png" alt="alt-text" width="500"/>
 </p>

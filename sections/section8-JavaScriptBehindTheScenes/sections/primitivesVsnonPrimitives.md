@@ -33,5 +33,5 @@ console.log(obj2.value); // Output: 10 (both are linked)
 ```
 
 <p align="center">
-  <img src="./images/primi_nonPrimi.png" alt="alt-text" width="500"/>
+  <img src="../images/primi_nonPrimi.png" alt="alt-text" width="500"/>
 </p>

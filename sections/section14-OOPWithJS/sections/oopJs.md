@@ -5,13 +5,13 @@ First, what is a prototype in general?
 A prototype in JavaScript is a special object that is associated with every JavaScript object. It allows objects to share methods and properties, which can be reused among different instances.
 
 <p align="center">
-  <img src="./images/prototypesJs.png" alt="alt-text" width="500"/>
+  <img src="../images/prototypesJs.png" alt="alt-text" width="500"/>
 </p>
 
 ## Ways of implementing prototypal inheritance in js
 
 <p align="center">
-  <img src="./images/prototypeImpelmentations.png" alt="alt-text" width="500"/>
+  <img src="../images/prototypeImpelmentations.png" alt="alt-text" width="500"/>
 </p>
 
 - **`Constructor Function`**
@@ -121,7 +121,7 @@ A prototype in JavaScript is a special object that is associated with every Java
 ## How Object.create() works
 
 <p align="center">
-  <img src="./images/howObject.createWork.png" alt="alt-text" width="500"/>
+  <img src="../images/howObject.createWork.png" alt="alt-text" width="500"/>
 </p>
 
 ## Prototypes
@@ -129,7 +129,7 @@ A prototype in JavaScript is a special object that is associated with every Java
 When you print this user object, you'll find that calcAge is in the prototype, not in the object itself.
 
 <p align="center">
-<img src="./images/exampleForPrototypes.png" alt="alt-text" width="500"/>
+<img src="../images/exampleForPrototypes.png" alt="alt-text" width="500"/>
 </p>
 
 - Prototype Method
@@ -161,7 +161,7 @@ When you print this user object, you'll find that calcAge is in the prototype, n
 ## Prototypal Inheritance
 
   <p align="center">
-  <img src="./images/exampleForPrototypes.png" alt="alt-text" width="500"/>
+  <img src="../images/exampleForPrototypes.png" alt="alt-text" width="500"/>
 </p>
 
 When you look at this object, you get the `jonas` object that calls the `calcAge()` function. When it is called, JavaScript first searches for this method in the object itself (which was created using the constructor function `Person`). If it doesn't find the method there, it will then search in the `prototypes` that was inherited during the object's creation.
@@ -169,7 +169,7 @@ When you look at this object, you get the `jonas` object that calls the `calcAge
 ## Prototype Chain(like scope chaining)
 
 <p align="center">
-<img src="./images/prototypeChain.png" alt="alt-text" width="500"/>
+<img src="../images/prototypeChain.png" alt="alt-text" width="500"/>
 </p>
 
 Person inherits the prototype of Object, and jonas inherits the prototype of Person (which includes both the Person prototype and the prototype of Object).

@@ -1,7 +1,7 @@
 ## OOP
 
 <p align="center">
-  <img src="./images/OOP.png" alt="alt-text" width="500"/>
+  <img src="../images/OOP.png" alt="alt-text" width="500"/>
 </p>
 
 ## OOP Principles

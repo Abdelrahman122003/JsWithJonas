@@ -69,7 +69,7 @@ createBooking("LH123"); // Output: { flightNum: 'LH123', numPassengers: 1, price
 ## First Class Vs High Order
 
 <p align="center">
-  <img src="./images/firstClass_highOrder_functions.png" alt="alt-text" width="500"/>
+  <img src="../images/firstClass_highOrder_functions.png" alt="alt-text" width="500"/>
 </p>
 
 1. First Class
@@ -302,15 +302,15 @@ When a function is declared inside another function, it forms a **closure**, all
 Even if the outer function completes execution, the inner function (closure) retains access to the variables of the outer function, because they are preserved in memory.
 
 <p align="center">
-  <img src="./images/closure1.png" alt="alt-text" width="500"/>
+  <img src="../images/closure1.png" alt="alt-text" width="500"/>
 </p>
 
 <p align="center">
-  <img src="./images/closure2.png" alt="alt-text" width="500"/>
+  <img src="../images/closure2.png" alt="alt-text" width="500"/>
 </p>
 
 <p align="center">
-  <img src="./images/closure3.png" alt="alt-text" width="500"/>
+  <img src="../images/closure3.png" alt="alt-text" width="500"/>
 </p>
 
 **Why Closures Are Useful:**

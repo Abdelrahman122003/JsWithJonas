@@ -17,7 +17,7 @@ Region of our code where a certain variable can be accessed.
 ## The 3 Types of Scope
 
 <p align="center">
-  <img src="./images/TypesOfScope.png" alt="alt-text" width="500"/>
+  <img src="../images/TypesOfScope.png" alt="alt-text" width="500"/>
 </p>
 
 ---
@@ -27,7 +27,7 @@ Region of our code where a certain variable can be accessed.
 The scope chain is a mechanism in JavaScript that allows access to variables from the current scope and its parent scopes. It defines how the JavaScript engine resolves variable names during execution.
 
 <p align="center">
-  <img src="./images/ScopeChain.png" alt="alt-text" width="500"/>
+  <img src="../images/ScopeChain.png" alt="alt-text" width="500"/>
 </p>
 
 ---
@@ -37,7 +37,7 @@ The scope chain is a mechanism in JavaScript that allows access to variables fro
 **`Hoisting`** allows variables and function declarations to be used before they are defined in the code.
 
 <p align="center">
-  <img src="./images/hoisting.png" alt="alt-text" width="500"/>
+  <img src="../images/hoisting.png" alt="alt-text" width="500"/>
 </p>
 
 **Hoisting Examples**
@@ -76,7 +76,7 @@ const addArrow = (a, b) => {
 ## TDZ
 
 <p align="center">
-  <img src="./images/TDZ.png" alt="alt-text" width="500"/>
+  <img src="../images/TDZ.png" alt="alt-text" width="500"/>
 </p>
 
 ## The `this` Keyword in JavaScript

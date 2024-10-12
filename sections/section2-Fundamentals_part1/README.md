@@ -1,9 +1,4 @@
-## Table of Contents
-
-- [Table of Contents](#table-of-contents)
-- [Outline](#outline)
-
-## Outline
+## Sections for Fundamentals Part One
 
 This section contains notes on various about:
 

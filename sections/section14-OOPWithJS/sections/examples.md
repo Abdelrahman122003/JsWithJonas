@@ -93,5 +93,5 @@ zoombie
 ## ES6 Classes Summary
 
 <p align="center">
-<img src="./images/summary.png" alt="alt-text" width="500"/>
+<img src="../images/summary.png" alt="alt-text" width="500"/>
 </p>

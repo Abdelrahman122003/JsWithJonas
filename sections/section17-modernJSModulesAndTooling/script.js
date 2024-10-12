@@ -1,4 +1,4 @@
 "use strict";
-import "./clean/js";
-
-console.log("importing is done");
+// Importing module
+const { addCart } = require("./shoppingCart");
+addCart("bread", 234);

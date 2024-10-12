@@ -1,13 +1,4 @@
-## Table of Contents
-
-- [Overview](#overview)
-- [Sections](#sections)
-
-## Overview
-
-This section contains notes on various subjects, concepts, and coding practices regarding how the web works, how JavaScript operates behind the scenes, AJAX, Promises, and Async/Await.
-
-## Sections
+## Sections For Async Javascript
 
 ### `howTheWebWork.md`
 

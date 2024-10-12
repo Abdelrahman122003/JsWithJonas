@@ -1,8 +1,4 @@
-## Table of Contents
-
-- [Sections](#sections)
-
-## Sections
+## Sections For Data Structure And Operators
 
 ### `dataStructure.md`
 

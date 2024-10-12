@@ -1,7 +1,7 @@
 ## Inheritance In Action
 
 <p align="center">
-<img src="./images/inheritanceInGeneral.png" alt="alt-text" width="500"/>
+<img src="../images/inheritanceInGeneral.png" alt="alt-text" width="500"/>
 </p>
 
 ## Inheritance With Constructor Function
@@ -45,7 +45,7 @@ mike.introduce(); // Output: My name is Mike and I study Computer Science
 ### How make inheritance
 
 <p align="center">
-<img src="./images/inheritanceUsingObject.create.png" alt="alt-text" width="500"/>
+<img src="../images/inheritanceUsingObject.create.png" alt="alt-text" width="500"/>
 </p>
 
 ```js
@@ -55,7 +55,7 @@ child.prototype = Object.create(Parent.prototype);
 ### Bad way and best way to make inheritance:
 
 <p align="center">
-<img src="./images/badAndBestWays.png" alt="alt-text" width="500"/>
+<img src="../images/badAndBestWays.png" alt="alt-text" width="500"/>
 </p>
 
 ### After make inheritance
@@ -104,7 +104,7 @@ mike.calcAge(); // Output: 17 (2037 - 2020)
 ### How it is work
 
 <p align="center">
-<img src="./images/inheritanceInAction.png" alt="alt-text" width="500"/>
+<img src="../images/inheritanceInAction.png" alt="alt-text" width="500"/>
 </p>
 
 ```js
@@ -177,7 +177,7 @@ zoomibe.introduce();
 ## Inheritance between Classes Object.create
 
 <p align="center">
-<img src="./images/inheritanceWithObjectCreate.png" alt="alt-text" width="500"/>
+<img src="../images/inheritanceWithObjectCreate.png" alt="alt-text" width="500"/>
 </p>
 
 ```js

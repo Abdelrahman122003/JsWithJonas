@@ -1,8 +1,4 @@
-## Table of Contents
-
-- [Sections](#sections)
-
-## Sections
+## Sections JavaScript Behind The Scenes
 
 ### `HighLevelOverviewOfJS.md`
 
