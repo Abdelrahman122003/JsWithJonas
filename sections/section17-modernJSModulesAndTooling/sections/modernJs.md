@@ -15,13 +15,13 @@
 ## Overview Of Modules
 
 <p align="center">
-  <img src="./images/modulesInGeneral.png" alt="alt-text" width="500"/>
+  <img src="../images/modulesInGeneral.png" alt="alt-text" width="500"/>
 </p>
 
 ## ES6 Modules Vs. Script
 
 <p align="center">
-  <img src="./images/jsModulesAndScript.png" alt="alt-text" width="500"/>
+  <img src="../images/jsModulesAndScript.png" alt="alt-text" width="500"/>
 </p>
 
 - **`Top Level Variables`**
@@ -43,7 +43,7 @@
 ## How ES6 modules are imported?
 
 <p align="center">
-  <img src="./images/whenModulesImportInES6.png" alt="alt-text" width="500"/>
+  <img src="../images/whenModulesImportInES6.png" alt="alt-text" width="500"/>
 </p>
 
 **Why is importing synchronous and not asynchronous**
