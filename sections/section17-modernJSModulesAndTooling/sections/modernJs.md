@@ -1,7 +1,7 @@
 ## overview of modern JS
 
 <p align="center">
-  <img src="./images/overviewOfModernJs.png" alt="alt-text" width="500"/>
+  <img src="../images/overviewOfModernJs.png" alt="alt-text" width="500"/>
 </p>
 
 - **Bundling**
