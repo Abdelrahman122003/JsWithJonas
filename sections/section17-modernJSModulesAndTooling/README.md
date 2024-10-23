@@ -1,4 +1,4 @@
-## Sections For Async Javascript
+## Sections For Modern JS Modules And Tooling
 
 ### `functionalProgramming.md`
 
