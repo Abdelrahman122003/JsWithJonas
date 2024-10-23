@@ -1,13 +1,13 @@
 ## The difference between imperative and declarative programming
 
 <p align="center">
-  <img src="./images/imperativeDeclarative.png" alt="alt-text" width="500"/>
+  <img src="../images/imperativeDeclarative.png" alt="alt-text" width="500"/>
 </p>
 
 ## What is functional programming, and how is it achieved?
 
 <p align="center">
-  <img src="./images/functionalProgramming.png" alt="alt-text" width="500"/>
+  <img src="../images/functionalProgramming.png" alt="alt-text" width="500"/>
 </p>
 
 1.  **First-Class Functions**:
